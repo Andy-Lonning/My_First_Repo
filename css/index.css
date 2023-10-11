@@ -1,0 +1,57 @@
+.Home {
+    display: inline-block;
+    padding: center;
+    background-color: #2e3f46;
+    color: azure;
+    padding: 50px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+.diet {
+    display: inline-block;
+    padding: center;
+    padding: 50px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: #2e3f46;
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+.habitat {
+    display: inline-block;
+    padding: center;
+    padding: 50px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: #2e3f46;
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+nav {
+    background-color: rgb(172, 227, 140);
+}
+.sidebar {
+    float: left;
+    width: 29%;
+    height: 800px;
+    background-color: rgb(192, 207, 203);
+}
+.main {
+    float: left;
+    width: 70%;
+    height: 800px;
+    background-color: rgb(233, 255, 242);
+}
+.topsidebar {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(223, 235, 216);
+}
+.lions {
+    position: absolute;
+    display: block;
+    width: 80%;
+    
+}
